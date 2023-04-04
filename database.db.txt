@@ -1,2 +1,0 @@
-name,age,status,id,college,program
-Nchimunya,24,0,1,Oak,Computer Science
